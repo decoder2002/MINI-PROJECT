@@ -1,4 +1,4 @@
-# Mini-Project link
+# Project link
 https://decoder2002.github.io/Mini-Project/
 
 ## Drive Link
